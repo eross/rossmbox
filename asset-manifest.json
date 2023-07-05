@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/rossmbox/static/css/main.ef366f39.css",
-    "main.js": "/rossmbox/static/js/main.75b2a978.js",
-    "static/js/787.b85539df.chunk.js": "/rossmbox/static/js/787.b85539df.chunk.js",
+    "main.css": "/rossmbox/static/css/main.39990031.css",
+    "main.js": "/rossmbox/static/js/main.e2cb761d.js",
     "static/media/logo.svg": "/rossmbox/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/rossmbox/index.html",
-    "main.ef366f39.css.map": "/rossmbox/static/css/main.ef366f39.css.map",
-    "main.75b2a978.js.map": "/rossmbox/static/js/main.75b2a978.js.map",
-    "787.b85539df.chunk.js.map": "/rossmbox/static/js/787.b85539df.chunk.js.map"
+    "main.39990031.css.map": "/rossmbox/static/css/main.39990031.css.map",
+    "main.e2cb761d.js.map": "/rossmbox/static/js/main.e2cb761d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef366f39.css",
-    "static/js/main.75b2a978.js"
+    "static/css/main.39990031.css",
+    "static/js/main.e2cb761d.js"
   ]
 }
